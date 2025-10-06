@@ -1,16 +1,38 @@
-Taller 5 – Análisis de Acciones Tecnológicas  
+Taller-5-Doing-Economics
 
-Este proyecto analiza la evolución de los precios e ingresos de empresas tecnológicas (2014–2024), con especial énfasis en el impacto de la pandemia del COVID-19.
+Grupo E – Autores: Julian Romero, Laura Corredor y Juan David Vargas
 
-El archivo principal se encuentra en, donde se consolidan los datos de compañías como **Apple, Microsoft, Meta, Nvidia, Samsung, TSMC, SAP, Nokia, ASML y Tencent**.  
+Este repositorio contiene el desarrollo del Taller 5 – Análisis de Acciones Tecnológicas, cuyo objetivo fue examinar la evolución de los precios e ingresos de las principales empresas del sector tecnológico en el período 2014–2024, prestando especial atención al impacto que tuvo la pandemia del COVID-19 en los mercados financieros globales.
 
-A partir de esta base se construyeron **tablas dinámicas y visualizaciones** que muestran:  
-- Comparación entre **Norteamérica, Asia y Europa** antes y después del COVID.  
-- Tendencias en **IA, semiconductores, software y servicios en la nube**.  
-- Casos destacados como el crecimiento exponencial de **Nvidia**.  
+Para ello utilizamos una base de datos consolidada en Taller 5 - final.xlsx
+, que incluye información de compañías líderes como Apple, Microsoft, Meta, Nvidia, Samsung, TSMC, SAP, Nokia, ASML y Tencent.
 
-El análisis demuestra que el COVID fue un **catalizador de la digitalización**, impulsando a las grandes tecnológicas y consolidando a los semiconductores y la nube como motores del mercado global.  
+El trabajo incluyó la organización y procesamiento de datos en Excel, la construcción de tablas dinámicas, la elaboración de gráficos comparativos y la interpretación de tendencias para responder a las preguntas de investigación.
 
----
+Pregunta de investigación
 
-  Autores: Laura Corredor, Julian Romero y Juan David Vargas
+¿Qué diferencias se observan en la evolución de precios e ingresos de las empresas tecnológicas antes y después del COVID-19?
+
+Principales hallazgos
+
+El COVID-19 actuó como catalizador de la digitalización, acelerando el crecimiento de las empresas tecnológicas.
+
+Norteamérica mostró el mayor incremento en ingresos (+8.5e8), mientras que Asia creció de forma más moderada (+1.2e8), aunque con avances clave en semiconductores.
+
+El impacto global en el período 2014–2024 fue cercano a +13.7 mil millones en ingresos.
+
+Casos emblemáticos como Nvidia reflejan cómo el auge de la inteligencia artificial y el gaming disparó el valor de sus acciones y consolidó su liderazgo en el mercado.
+
+A pesar de las diferencias regionales, la tendencia común fue una revalorización acelerada del sector tecnológico tras la pandemia.
+
+Limitaciones
+
+El análisis se centró en un número reducido de empresas y utilizó datos secundarios consolidados, lo que deja por fuera otras dinámicas de mercado relevantes. Sin embargo, los resultados son consistentes con la literatura y permiten extraer conclusiones sólidas sobre el papel del COVID-19 en la transformación del sector.
+
+Referencias
+
+Bloomberg (2024). Bases de datos de mercado accionario.
+
+CORE Project. Doing Economics: Empirical Projects.
+
+Análisis de Nvidia, Apple y Microsoft en reportes financieros oficiales (2019–2024).
